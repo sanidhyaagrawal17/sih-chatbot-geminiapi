@@ -1,0 +1,10 @@
+# Virtual Environment
+venv/
+
+# Temporary files
+temp_uploads/
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
